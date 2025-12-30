@@ -11,7 +11,7 @@ Bot Twitch pour animer des blind tests musicaux en live, avec intégration Twitc
 
 - Bot Twitch dédié identifié sous le compte **BrewMaster182**
 - Gestion des événements Twitch (followers, subs, points de chaîne, etc.)
-- Lecture et gestion de musique (Spotify / YouTube)
+- Lecture et gestion de musique (Spotify)
 - Interactions automatiques pendant le live
 - Configuration simple via fichier `.env`
 
