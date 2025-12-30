@@ -31,7 +31,7 @@ Bot Twitch pour animer des blind tests musicaux en live, avec intégration Twitc
 ---
 
 ## 📦 Installation
-1. Télécharger et extraire l’archive :
+1. Télécharger et extraire l’archive : BlindTest-TwitchBot.zip
 
 2. Ouvrir le fichier .env et renseigner les variables nécessaires
 
